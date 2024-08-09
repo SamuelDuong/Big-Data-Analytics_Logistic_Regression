@@ -1,1 +1,1 @@
-# Big-Data-Analytics_Logistic_Regression
+# Big-Data-Analytics-Logistic-Regression
